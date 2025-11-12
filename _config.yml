@@ -41,7 +41,7 @@ orcid_username: 0009-0005-6108-3748
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/tom.jpg
+about_profile_image: images/thanh.jpg
 about_content: | # this will include new lines to allow paragraphs
  As a student at the **UEH University**, I am pursuing a dual major in **Investment Economics** and **Financial Technology (Fintech)**.
  
