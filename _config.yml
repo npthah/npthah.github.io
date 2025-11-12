@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
-        title: University of Economics Ho Chi Minh City (UEH)
+        title: UEH University
         sub_title: Bachelor's Degree, Dual Major in Investment Economics & Fintech
         caption: 3rd Year Student, High-Quality Bachelor's Program.
           
@@ -64,12 +64,12 @@ content:
     layout: text
     content: |
       **BELL Club (UEH)**
-      *Actively participated in internal activities and club campaigns.
+      Actively participated in internal activities and club campaigns.
       * **Finance Team:** Assisted in budgeting and financial planning for internal club activities.
       * **Design Team (Summer Volunteer Campaign 2024):** Led the design of posters, banners, and communication materials for the campaign.
 
       **Investment Portfolio Management Project (Coursework)**
-      *Achieved an A+ grade for this major-specific project. 
+      Achieved an A+ grade for this major-specific project. 
       * Applied theoretical models for asset analysis and selection.
       * Built and optimized a simulated investment portfolio, focusing on risk management.
       * Utilized Python and Stata for data analysis and strategy back-testing.
